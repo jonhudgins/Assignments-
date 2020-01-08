@@ -1,0 +1,27 @@
+12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         15 characters
+	Most common values:    FOOD & BEVERAGE (942x)
+
+
+13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         880
+	Smallest value:        100.1
+	Largest value:         19,135
+	Sum:                   543,233.55
+	Mean:                  576.681
+	Median:                204.345
+	StDev:                 1,405.929
+	Most common values:    120 (9x)
+	                       110 (7x)
+	                       150 (5x)
+	                       300 (4x)
+	                       155 (4x)
+
+There are 942 counts of "FOOD & BEVERAGE" and 880 instances of costs above $100. The largest value is $19,135 and the mean is $576. 
